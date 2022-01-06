@@ -1,0 +1,17 @@
+.flexContainer {
+    display : flex;
+    width : 100%;
+}
+
+.flexContentBlock {
+    padding : 5px;
+}
+
+.flexImgBlock {
+    
+    padding : 5px;
+}
+
+.flexImgBlock img {
+    width : 100%;
+}
